@@ -72,15 +72,12 @@ ul li a {
 }
 
 ul li a:hover {
-
   color: #7c76c2;
   transition: 0.8s;
-
 }
 
 #img-footer {
-  position: absolute;
-  margin-top: 10px;
-  bottom: 0;
   width: 100%;
+  position: absolute;
 }
+
