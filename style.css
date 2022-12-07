@@ -10,7 +10,7 @@ body {
 }
 
 .page {
-  padding: 64px 199px;
+  padding: 10px 199px;
   text-align: center;
 }
 
@@ -76,8 +76,10 @@ ul li a:hover {
   transition: 0.8s;
 }
 
-#img-footer {
-  width: 100%;
+.img-footer {
   position: absolute;
+  z-index: -1;
+  width: 100%;
+  margin-top: 40px;
 }
 
